@@ -1,0 +1,18 @@
+SMAP
+addconsumption_jsp.java
+JSP
+*S JSP
+*F
++ 0 addconsumption.jsp
+nmsfront/pages/addconsumption.jsp
+*L
+5,253:50
+260,7:306
+266:313
+267:314,3
+268:317
+269:318,3
+270,2:321
+272:323,3
+273,82:326
+*E

@@ -1,0 +1,22 @@
+SMAP
+AddDistribution_jsp.java
+JSP
+*S JSP
+*F
++ 0 AddDistribution.jsp
+nmsfront/pages/AddDistribution.jsp
+*L
+5,253:50
+258,9:304
+266,3:313
+269:316,3
+270,2:319
+272:321,3
+273,31:324
+306,7:358
+312,3:365
+315:368,3
+316,2:371
+318:373,3
+319,82:376
+*E

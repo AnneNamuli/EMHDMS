@@ -1,0 +1,20 @@
+SMAP
+ViewMessages_jsp.java
+JSP
+*S JSP
+*F
++ 0 ViewMessages.jsp
+nmsfront/pages/ViewMessages.jsp
+*L
+1,253:47
+257,7:304
+263,2:311
+265:313,3
+266:316
+267,3:317,3
+270:326
+271:327,3
+272,3:330
+275:333,3
+276,53:336
+*E
